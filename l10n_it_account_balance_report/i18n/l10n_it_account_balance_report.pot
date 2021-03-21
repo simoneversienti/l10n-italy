@@ -169,7 +169,7 @@ msgid "Code"
 msgstr ""
 
 #. module: l10n_it_account_balance_report
-#: model:ir.model.fields,field_description:l10n_it_account_balance_report.field_account_balance_report_company_id_6435
+#: model:ir.model.fields,field_description:l10n_it_account_balance_report.field_account_balance_report_company_id_6438
 msgid "Company"
 msgstr ""
 
